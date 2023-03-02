@@ -1,0 +1,6 @@
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\bin\Debug\charactershow.exe.config
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\bin\Debug\charactershow.exe
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\bin\Debug\charactershow.pdb
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\obj\Debug\charactershow.csprojResolveAssemblyReference.cache
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\obj\Debug\charactershow.exe
+c:\users\aliag\documents\visual studio 2012\Projects\charactershow\charactershow\obj\Debug\charactershow.pdb
